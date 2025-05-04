@@ -13,4 +13,4 @@ This project is a responsive landing page for Fylo, designed with a clean and mo
 This project is inspired by front-end challenges and aims to practice layout structuring, responsiveness, and clean code organization.
 
 Live Demo:
-
+https://ziad-eid.github.io/Fylo-landing-page/
